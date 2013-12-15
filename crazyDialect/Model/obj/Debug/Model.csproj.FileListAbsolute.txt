@@ -1,0 +1,10 @@
+G:\大三第一学期\C#\期末大作业\StudentExamSystem\Model\bin\Debug\Model.dll
+G:\大三第一学期\C#\期末大作业\StudentExamSystem\Model\bin\Debug\Model.pdb
+G:\大三第一学期\C#\期末大作业\StudentExamSystem\Model\obj\Debug\Model.dll
+G:\大三第一学期\C#\期末大作业\StudentExamSystem\Model\obj\Debug\Model.pdb
+G:\大三第一学期\C#\期末大作业\StudentExamSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\大三第一学期\C#\期末大作业\计算机一班（林帆，梁意，胡建萍）\crazyDialect\Model\bin\Debug\Model.dll
+G:\大三第一学期\C#\期末大作业\计算机一班（林帆，梁意，胡建萍）\crazyDialect\Model\bin\Debug\Model.pdb
+G:\大三第一学期\C#\期末大作业\计算机一班（林帆，梁意，胡建萍）\crazyDialect\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\大三第一学期\C#\期末大作业\计算机一班（林帆，梁意，胡建萍）\crazyDialect\Model\obj\Debug\Model.dll
+G:\大三第一学期\C#\期末大作业\计算机一班（林帆，梁意，胡建萍）\crazyDialect\Model\obj\Debug\Model.pdb

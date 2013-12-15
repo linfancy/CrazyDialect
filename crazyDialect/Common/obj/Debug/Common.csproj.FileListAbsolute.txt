@@ -1,0 +1,8 @@
+G:\大三第一学期\C#\期末大作业\StudentExamSystem\Common\bin\Debug\Common.dll
+G:\大三第一学期\C#\期末大作业\StudentExamSystem\Common\bin\Debug\Common.pdb
+G:\大三第一学期\C#\期末大作业\StudentExamSystem\Common\obj\Debug\Common.dll
+G:\大三第一学期\C#\期末大作业\StudentExamSystem\Common\obj\Debug\Common.pdb
+G:\大三第一学期\C#\期末大作业\计算机一班（林帆，梁意，胡建萍）\crazyDialect\Common\bin\Debug\Common.dll
+G:\大三第一学期\C#\期末大作业\计算机一班（林帆，梁意，胡建萍）\crazyDialect\Common\bin\Debug\Common.pdb
+G:\大三第一学期\C#\期末大作业\计算机一班（林帆，梁意，胡建萍）\crazyDialect\Common\obj\Debug\Common.dll
+G:\大三第一学期\C#\期末大作业\计算机一班（林帆，梁意，胡建萍）\crazyDialect\Common\obj\Debug\Common.pdb
